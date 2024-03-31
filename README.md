@@ -7,14 +7,14 @@ I use HTML and CSS, and some images
 ## What do I learn?
  ### Things explained but that I already knew
   * Basic HTML tags and structure
-   - html, head, body, link, h1, h2, h3, p, div, img
+    - html, head, body, link, h1, h2, h3, p, div, img
   * class and id attribute to use with CSS
   * CSS basic properties and their functionalities
     - width, height, margin, padding, background, border, border-radius, color, font-family
   * background-image and background-size to make and modify images for the background
   * text-align:center, margin:auto to center objects horizontally
   * How to use Flexbox and its properties
-   - flex-direction, align-items and justify-content
+    - flex-direction, align-items and justify-content
  ### Things explained that were useful to me
   * alt attribute to describe img tags, to help explain the image when it's not loading, or when a visually impaired person wants to know what it is showing in the image
   * role and aria-label attributes to help describe things to visually impaired people when there is no other attribute for it, like alt
