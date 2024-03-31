@@ -1,0 +1,108 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    padding-bottom: 50px;
+    background:#F1FAEE;
+    color: #1D3557;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+#hero-section{
+    height: 350px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    color:white;
+    background-image: url('./images/berisso-park.PNG');
+    background-size:cover;
+}
+
+#hero-title,#hero-subtitle{
+    border-radius: 12px;
+}
+
+#hero-title{
+    margin: 0 0 12px 0;
+    padding: 6px 12px; 
+    background-color:#1D3557;
+    font-size: 32px;
+}
+
+#hero-subtitle{
+    margin: 0;
+    width: 412px;
+    padding: 6px 24px;
+    background-color:#457B9D;
+    font-size: 19px;
+}
+
+#activities-section{
+    margin-bottom: 50px;
+}
+
+#activities-title{
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+
+#activities-wrapper{
+    display:flex;
+    justify-content:space-around;
+}
+
+.activities-info{
+    width: 200px;
+}
+
+.activities-img:hover{
+    border: 2px solid #1D3557;
+}
+
+
+.activities-img{
+    border-radius:50%;
+}
+
+#guide-section{
+    display:flex;
+    width: 450px;
+    height: 200px;
+    margin: 0 auto;
+    padding-right: 14px;
+    background: #FFFFFF;
+    border: 3px solid #162842;;
+    color: #1D3557;
+}
+
+#guide-section{
+    border-radius: 8px;
+}
+
+#guide-photo{
+    width: 200px;
+    height: 200px;
+    margin-right: 14px;
+}
+
+#guide-title{ 
+    font-size: 24px;
+}
+
+
+
