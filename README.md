@@ -9,7 +9,7 @@ I use HTML, CSS, and some images
   <em> \*In this case I added all the things in module 2 that I remember\* </em>
   - Basic HTML tags and structure
     - `html`, `head`, `body`, `link`, `h1`, `h2`, `h3`, `p`, `div`, `img`
-  - <span style="color: red">I am red</span>  and `id` attribute to use with CSS
+  - `class` and `id` attribute to use with CSS
   - CSS basic properties and their functionalities
     - `width`, `height`, `margin`, `padding`, `background`, `border`, `border-radius`, `color`, `font-family`
   - `background-image` and `background-size` to make and modify images for the background
