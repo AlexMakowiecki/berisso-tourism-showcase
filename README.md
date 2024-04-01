@@ -3,7 +3,7 @@
 It's a website where I aim to showcase the beauties of my current hometown, highlighting the various activities and events that tourists can experience if they come to visit.
 It's also the second project, part of the Scrimba Course, that I uploaded to Github. This project is part of module 2, where they teach you the web dev basics.
 ## What do I use?
-I use HTML and CSS, and some images
+I use HTML, CSS, and some images
 ## What do I learn?
  ### Things explained but that I already knew
   * Basic HTML tags and structure
