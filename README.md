@@ -18,8 +18,11 @@ I use HTML, CSS, and some images
  ### Things explained that were useful to me
   * alt attribute to describe img tags, to help explain the image when it's not loading, or when a visually impaired person wants to know what it is showing in the image
   * role and aria-label attributes to help describe things to visually impaired people when there is no other attribute for it, like alt
-### Why is the website too simple if I know how to make it better?
+## Why is the website too simple if I know how to make it better?
 I want to only use the things that I learned in the Scrimba course, before doing the project and after completing the course, return to the projects individually, and improve them with all the things necessary for a correct website. I don't want to modify the website too much; and make it difficult to improve or fix after. 
+
+
+
 
 ## About Scrimba
 
